@@ -39,6 +39,7 @@ export default props => {
                             <button type="button">
                                 <img src={dislike} alt="Dislike"/>   
                             </button>
+                            
                             <button type="button">
                                 <img src={like} alt="Like"/>   
                             </button>
